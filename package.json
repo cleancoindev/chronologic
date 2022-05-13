@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/toshendra/ethereum-erc20-token",
   "dependencies": {
-    "truffle-hdwallet-provider": "0.0.3"
+    "truffle-hdwallet-provider": "1.0.0"
   },
   "devDependencies": {
     "babel-polyfill": "^6.23.0",
